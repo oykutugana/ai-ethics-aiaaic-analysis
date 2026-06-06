@@ -8,12 +8,17 @@ AIAAIC veri tabanından (2021–2026) derlenmiş 1001 gerçek AI etik ihlali üz
 3. **p3-Sınıflandırıcı** — başlıktan etik konuyu tahmin eden çok-etiketli ML modeli (Macro-F1 = 0.62)
 
 ## Dosyalar
+- `Team6_Ethics_final.ipynb` — tüm analiz kodu
+- `Team6_Ethics_final_report.pdf` 
+- `visuals/` — 13 görsel (p1,p2,p3)
+- `README.md`
+--------------------------------------------------
 - `AIAAIC_Incidents.xlsx` - raw veri (3457 vaka)
 - `aiaaic_cleaned_03.csv` — temizlenmiş analiz havuzu (1001 vaka)
 - `model_karsilastirma_dolu.xlsx` — 200 vaka × 4 model yargı tablosu
 - `etik_konu_siniflandirici.joblib` — eğitilmiş sınıflandırıcı (TF-IDF + OvR Logistic Regression)
-- `visuals/` — 13 görsel (p1,p2,p3)
-- `notebook.ipynb` — tüm analiz kodu
+- `prompts/` - karşılaştırma için modellerde kullanılan promptlar
+- `cevaplar/` - modellerin promptlara verdiği cevaplar (her model için 200 cevap)
 
 ## Temel Bulgular
 - Transparency en baskın endişe; Generative AI en sık kaynak teknoloji.
