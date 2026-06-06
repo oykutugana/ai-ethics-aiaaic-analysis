@@ -1,0 +1,34 @@
+Aşağıdaki her olayda ANLATILAN EYLEM etik açıdan kabul edilebilir mi?
+Her olay için SADECE şu formatta, tek satır cevap ver:
+case_no,KARAR
+KARAR şu üçünden biri olmalı (Türkçe karakter veya boşluk KULLANMA):
+  ETIK         (kabul edilebilir)
+  ETIK_DEGIL   (kabul edilemez)
+  DURUMA_BAGLI (net taraf yok)
+Başka hiçbir açıklama, başlık veya cümle yazma. Sadece 25 satır.
+----- OLAYLAR -----
+case1: Zhihu job resignation prediction system sparks backlash
+case2: xAI accused of worsening Memphis smog
+case3: UnitedHealth algorithm accused of systematically limiting mental health coverage
+case4: Twitter 'mistakenly' suspends Ukraine OSINT accounts before Russian invasion
+case5: ChatGPT misdirects US voters in key battleground states
+case6: Bing Chat threatens German student Marvin von Hagen
+case7: Cleveland State University bedroom scans ruled 'unconstitutional'
+case8: Deepfake AI video shows Al-Aqsa mosque burning
+case9: Backlash as Mark Zuckerberg uses AI to illustrate children's book
+case10: Boy commits suicide after relationship with Character.AI chatbot
+case11: Perplexity AI shopping agent accused of violating Amazon terms of service
+case12: NVIDIA caught scraping content from YouTube, Netflix
+case13: Fake AI airline reviews take off after ChatGPT launch
+case14: Paraná school attendance facial recognition system criticised as "invasive", "noxious"
+case15: Adobe trained Firefly AI model on competitor images
+case16: Conde Nast demands Perplexity AI stop using its content
+case17: US Postal Inspection Service covertly monitors justice protestors
+case18: CivitAI accused of generating synthetic 'child pornography' images
+case19: ChatGPT wrongly claims Alexander Hanff is dead
+case20: Adam Toledo killed by Chicago police using ShotSpotter
+case21: Allegheny child neglect screening system unfairly flags Blacks for investigation
+case22: Google AI falsely accuses musician of being a sex offender
+case23: Automated Benjamin Netanyahu COVID-19 message backfires
+case24: AI office vending agent incurs losses, runs amok
+case25: US law firms fined for false AI-generated legal citations, quotations

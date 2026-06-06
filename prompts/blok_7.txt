@@ -1,0 +1,34 @@
+Aşağıdaki her olayda ANLATILAN EYLEM etik açıdan kabul edilebilir mi?
+Her olay için SADECE şu formatta, tek satır cevap ver:
+case_no,KARAR
+KARAR şu üçünden biri olmalı (Türkçe karakter veya boşluk KULLANMA):
+  ETIK         (kabul edilebilir)
+  ETIK_DEGIL   (kabul edilemez)
+  DURUMA_BAGLI (net taraf yok)
+Başka hiçbir açıklama, başlık veya cümle yazma. Sadece 25 satır.
+----- OLAYLAR -----
+case151: Dream Machine AI video generator copies Disney's Monsters, Inc.
+case152: Julian Sancton sues OpenAI, Microsoft for copyright abuse
+case153: Gannett pauses 'abysmal' AI-generated high school sports recaps
+case154: Scarlett Johansson sues app for using image for AI advert
+case155: Grok generates sexualised images of mother of one of Elon Musk's children
+case156: 7 deaths linked to faulty Abbott AI glucose sensors
+case157: Study: GPT-4 echoes false news narratives 100 percent of the time
+case158: Apple AI alert falsely claims Luke Littler has won darts championship
+case159: Fake AI Halloween parade misleads Irish revellers
+case160: Opaque Cybercheck AI crime fighting tool accused of contributing to multiple wrongful convictions
+case161: Google fined for training Gemini on news content without consent
+case162: ChatGPT makes up research claiming guns are not harmful to kids
+case163: Amazon, Waterstones algorithms promote vaccine misinformation
+case164: Kim Kwang-Seok voice recreated for TV show
+case165: Man develops rare condition after following ChatGPT advice
+case166: Neuroscientists sue Apple for illegally using their books to train AI models
+case167: AI chatbots spread false information about Charlie Kirk's assassination
+case168: Cosmos Magazine AI-generated articles prompt backlash
+case169: US prison inmate AI call monitoring plan raises privacy, bias concerns
+case170: Chinese influence operation uses ChatGPT to manipulate Latin American public opinion
+case171: 13-year-old girl commits suicide after confiding in Character.AI
+case172: ICE facial recognition app misidentifies woman twice
+case173: Los Angeles subsidised housing scoring system accused of racial bias
+case174: Anthropic settles AI copyright lawsuit brought by authors
+case175: Zane Shamblin commits suicide after ChatGPT encouragement

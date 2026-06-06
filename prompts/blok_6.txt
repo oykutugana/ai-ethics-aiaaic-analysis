@@ -1,0 +1,34 @@
+Aşağıdaki her olayda ANLATILAN EYLEM etik açıdan kabul edilebilir mi?
+Her olay için SADECE şu formatta, tek satır cevap ver:
+case_no,KARAR
+KARAR şu üçünden biri olmalı (Türkçe karakter veya boşluk KULLANMA):
+  ETIK         (kabul edilebilir)
+  ETIK_DEGIL   (kabul edilemez)
+  DURUMA_BAGLI (net taraf yok)
+Başka hiçbir açıklama, başlık veya cümle yazma. Sadece 25 satır.
+----- OLAYLAR -----
+case126: Grok accused of censoring criticism of Trump, Musk
+case127: AI companies appropriate 139,000 TV, film scripts to train AI systems
+case128: AI hiring chatbot hack violates applicants' privacy
+case129: Jacksons Food Stores facial recognition
+case130: Investigation: Match Group dating app AI systems fail to detect rapists
+case131: Beijing AI influence campaign weaponises Gaza conflict
+case132: Microsoft accused of censoring Tiananmen Square 'tank man'
+case133: Galactica generates inaccurate, racist, homophobic and offensive responses
+case134: University of Waterloo found to be covertly using facial recognition
+case135: AI detector falsely accuses autistic student of cheating
+case136: Microsoft AI Recall feature found to capture credit card numbers
+case137: US authorities use license plate readers to monitor protestors, activists
+case138: AI or Not misidentifies Hamas baby victim as deepfake
+case139: Whitebridge AI accused of producing inaccurate, invasive reputation reports
+case140: Google Assistive Writing feature is accused of being too 'woke'
+case141: WildBrain accuses Kartoon Studios of IP infringement over Gadget A.I.
+case142: Midjourney refuses to create images of Black African doctors treating white kids
+case143: Voiceify (Jammable) sued for training AI with copyrighted material
+case144: Amazon replaces 14,000 jobs with AI
+case145: Lucknow police criticised over plan to  monitor 'women in distress'
+case146: Amazon US accused of rigging search engine to promote 'own' brands
+case147: Amazon charges local school districts different prices for same supplies
+case148: Adobe Firefly shows 'woke' photos of black Nazis
+case149: Apple AI dictation system translates 'racist' as 'Trump'
+case150: Gorillas 'Project Ace' rider work schedule automation backfires

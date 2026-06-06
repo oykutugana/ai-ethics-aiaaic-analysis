@@ -1,0 +1,34 @@
+Aşağıdaki her olayda ANLATILAN EYLEM etik açıdan kabul edilebilir mi?
+Her olay için SADECE şu formatta, tek satır cevap ver:
+case_no,KARAR
+KARAR şu üçünden biri olmalı (Türkçe karakter veya boşluk KULLANMA):
+  ETIK         (kabul edilebilir)
+  ETIK_DEGIL   (kabul edilemez)
+  DURUMA_BAGLI (net taraf yok)
+Başka hiçbir açıklama, başlık veya cümle yazma. Sadece 25 satır.
+----- OLAYLAR -----
+case51: ChatGPT invents Guardian newspaper articles, bylines
+case52: Voiceover artist accuses ScotRail of using AI version of her voice without consent
+case53: Starship robot 'wipes out' Rushden shopper
+case54: US FTC investigates ChatGPT for possible consumer harms
+case55: Immunefi bans 'inaccurate' ChatGPT-generated bug bounty reports
+case56: France welfare fraud detection algorithm accused of exacerbating inequality
+case57: Japanese student launches ChatGPT-powered cyberattack against internet cafe chain
+case58: AI meal planner app suggests chlorine gas recipe
+case59: Study: AI image generators accept 85 percent of election manipulation prompts
+case60: Intel AI student emotion monitoring system accused of being inaccurate, intrusive
+case61: Facebook downranking system failure leads to misinformation spike
+case62: Google Maps falsely labels German autobahns as closed
+case63: ChatGPT encourages Ukrainian teenager to kill herself
+case64: FTC sues Automators for misleading "AI" online sales and coaching fraud
+case65: Amazon India accused of rigging search engine to promote 'own' brands
+case66: Father Justin AI priest defrocked after inappropriate responses
+case67: Mass AI cheating uncovered at South Korea's Yonsei university
+case68: Study: GPT-3 associates Muslims with violence
+case69: ChatGPT falsely claims to write student essays
+case70: Perth doctors warned for using ChatGPT to write patient medical records
+case71: Amazon One palmprint biometrics accused of opacity, jeopardising privacy
+case72: Study: Epic sepsis model misses two-thirds of cases
+case73: Google's Veo3 creates convincing election fraud video deepfakes
+case74: ChatGPT coaches Joshua Enneking on how to commit suicide
+case75: AI invents NewsBreak Christmas Day murder

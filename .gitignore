@@ -1,0 +1,50 @@
+
+# ----- Proje verileri ve çıktıları (repoya koyma) -----
+# Ara temizleme dosyaları
+aiaaic_cleaned_01.csv
+aiaaic_cleaned_02.csv
+
+# Model karşılaştırma çıktıları
+model_karsilastirma.xlsx
+
+
+# ----- Jupyter / Notebook -----
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+*-checkpoint.ipynb
+anaconda_projects
+
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.Python
+build/
+dist/
+
+# Sanal ortamlar
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# ----- API anahtarları -----
+.env
+.env.*
+*.key
+secrets.*
+api_keys.*
+config_secret.*
+
+# ----- IDE / Editör -----
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# ----- İşletim sistemi -----
+.DS_Store
+Thumbs.db
+desktop.ini

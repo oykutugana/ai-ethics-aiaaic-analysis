@@ -1,0 +1,34 @@
+Aşağıdaki her olayda ANLATILAN EYLEM etik açıdan kabul edilebilir mi?
+Her olay için SADECE şu formatta, tek satır cevap ver:
+case_no,KARAR
+KARAR şu üçünden biri olmalı (Türkçe karakter veya boşluk KULLANMA):
+  ETIK         (kabul edilebilir)
+  ETIK_DEGIL   (kabul edilemez)
+  DURUMA_BAGLI (net taraf yok)
+Başka hiçbir açıklama, başlık veya cümle yazma. Sadece 25 satır.
+----- OLAYLAR -----
+case26: OpenAI Operator agent buys eggs without permission
+case27: Autonomous AI coding agent deletes company database
+case28: Character.AI lets children talk with chatbots based on Jeffrey Epstein
+case29: SEC launches investigation into Evolv Technology
+case30: UK slammed for opaque "Orwellian" murder prediction tool
+case31: Three news publishers sue OpenAI for copyright infringement
+case32: UK man jailed for 18 years for creating AI child abuse images
+case33: Advance UK secretly uses fake AI influencer to post anti‑immigrant content
+case34: TikTok fails to stop beheading video going viral
+case35: German privacy watchdog investigates PimEyes for privacy abuse
+case36: NYC AI chatbot tells businesses to break law
+case37: Lensa AI generates nudes from childhood photos
+case38: Didi Global fined USD 1.2m for privacy abuse
+case39: Iranian group uses ChatGPT to target US presidential election
+case40: Amazon AI anime dubs spark backlash over quality, ethics
+case41: Amazon Go fails to inform NYC customers about facial recognition
+case42: Fans in fury over Paul McCartney show dynamic price gouging
+case43: Amazon data centre linked to rare cancers in Oregon
+case44: Amazon accused of "unfairly" firing Flex delivery drivers by algorithm
+case45: Takaful' poverty targeting algorithm unfairly excludes poor Jordanians
+case46: Grok generates hyperrealistic racist images of football players
+case47: Deloitte systems accused of making inaccurate, unreliable Medicaid eligibility deteminations
+case48: OpenAI accused of violating Studio Ghibli copyright
+case49: Apple automated photo data sharing prompts privacy concerns
+case50: Twitter, Instagram fail to stop racist abuse of England footballers

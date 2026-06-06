@@ -1,0 +1,34 @@
+Aşağıdaki her olayda ANLATILAN EYLEM etik açıdan kabul edilebilir mi?
+Her olay için SADECE şu formatta, tek satır cevap ver:
+case_no,KARAR
+KARAR şu üçünden biri olmalı (Türkçe karakter veya boşluk KULLANMA):
+  ETIK         (kabul edilebilir)
+  ETIK_DEGIL   (kabul edilemez)
+  DURUMA_BAGLI (net taraf yok)
+Başka hiçbir açıklama, başlık veya cümle yazma. Sadece 25 satır.
+----- OLAYLAR -----
+case176: Grok generates offensive posts about Hillsborough, Heysel football disasters
+case177: Spotify uses fake artists to cut real artists' royalty costs
+case178: ChatGPT falsely accuses OpenCage of 'phone lookup' service
+case179: Welshman kills mother with sledgehammer after speaking to Discord AI bot
+case180: Italian privacy watchdog opens investigation into Sora
+case181: Study: Top social media platforms 'unsafe' for LGBTQ users
+case182: Anthropic "destructively" scans millions of books to train AI models
+case183: Parivar Pehchan Patra algorithm declares living people dead
+case184: Spotify plan to use emotion recognition deemed 'manipulative'
+case185: ChatGPT invents Henrik Enghoff academic citations
+case186: AI unmasks anonymous chess players
+case187: Legal tech company EvenUp accused of systemic misleading marketing
+case188: Turnitin AI writing detection tool found to be mostly inaccurate
+case189: Grok misleads voters about US presidential election
+case190: Ask Delphi says genocide is OK if it makes people happy
+case191: Bicyclist suffers brain, spine injuries from Waymo “Safe Exit” malfunction
+case192: Lemonade use of emotion recognition to assess insurance claims prompts backlash
+case193: Proctorio fails to recognise Vrije Universiteit Black student
+case194: AI agent hacks McKinsey employee chatbot
+case195: Chinese geo chatbot accused of censorship, bias
+case196: Amazon Mentor delivery driver scoring criticised as inaccurate, invasive
+case197: Study: ChatGPT lies more in Chinese than English
+case198: Facebook job ad algorithm ruled sexist by French regulator
+case199: YouTube ads hate speech blocklist is 'inconsistent' and barely applied
+case200: Brave rapped for covertly selling user data for AI development
