@@ -1,4 +1,4 @@
-# Yapay Zekâ Kendi Etiğini Yargılayabilir mi?
+# Yapay Zeka Kendi Etiğini Yargılayabilir mi?
 ### AIAAIC İhlalleri Üzerinden Anatomi, Model Karşılaştırması ve Sınıflandırma (2021–2026)
 
 ## Özet
